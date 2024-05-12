@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--CzEvOo0v--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png)]
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--CzEvOo0v--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png)
 <h1 align="center">Hi 👋, I'm Pavan Kumar Pattipu!</h1>
 <h3 align="center">I'm a passionate Computer Science student based in Andhra Pradesh, India, with a keen interest in AI and ML. Currently pursuing my Bachelor's in Technology at Nri Institute of Technology. You can find me exploring various domains of computer science and working on exciting projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://mzags.com/wp-content/uploads/2022/06/programmer-animation.gif">
