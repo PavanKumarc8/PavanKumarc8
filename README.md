@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Pavan Kumar Pattipu 👋</h1>
 <h3 align="center">Full-Stack Software Engineer | Backend-focused | Node.js · NestJS · PostgreSQL</h3>
 
-<img align="right" width="400" src="https://mzags.com/wp-content/uploads/2022/06/programmer-animation.gif"/>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/pavan-kumar-pattipu" target="_blank">
@@ -134,12 +134,12 @@ A multi-tenant ticketing backend (NestJS, PostgreSQL, Redis, Socket.IO, JWT) wit
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PavanKumarc8&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PavanKumarc8&show_icons=true&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumarc8&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanKumarc8&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=PavanKumarc8&hide_border=true" />
 </p>
 
 ---
