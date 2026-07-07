@@ -1,5 +1,9 @@
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--CzEvOo0v--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png" width="100%"/>
+
 <h1 align="center">Hi, I'm Pavan Kumar Pattipu 👋</h1>
 <h3 align="center">Full-Stack Software Engineer | Backend-focused | Node.js · NestJS · PostgreSQL</h3>
+
+<img align="right" width="400" src="https://mzags.com/wp-content/uploads/2022/06/programmer-animation.gif"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/pavan-kumar-pattipu" target="_blank">
