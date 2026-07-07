@@ -131,17 +131,4 @@ A multi-tenant ticketing backend (NestJS, PostgreSQL, Redis, Socket.IO, JWT) wit
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PavanKumarc8&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumarc8&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PavanKumarc8&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Open to full-time Backend / Full-Stack Engineer roles — let's connect!</i></p>
