@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pavan Kumar Pattipu 👋</h1>
-<h3 align="center">Full-Stack Software Engineer | Backend-focused | Building agentic AI tooling with MCP & Claude API</h3>
+<h3 align="center">Full-Stack Software Engineer | Backend-focused | Node.js · NestJS · PostgreSQL</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pavan-kumar-pattipu" target="_blank">
